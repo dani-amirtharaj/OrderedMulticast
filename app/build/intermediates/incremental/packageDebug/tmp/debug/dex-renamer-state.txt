@@ -1,0 +1,4 @@
+#Thu Mar 14 22:32:36 EDT 2019
+base.0=C\:\\Users\\Dan\\Documents\\UB Course Work\\DS\\Project 2b\\GroupMessenger2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
